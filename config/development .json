@@ -1,0 +1,6 @@
+{ 
+  "mongo_uri": "mongodb://localhost:27017/recursos",
+  "port": 5000,
+  "jwt_secret": "hgkjfhkgkdfghkd",
+  "jwt_expires": "30d"
+}
